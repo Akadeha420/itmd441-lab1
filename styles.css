@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+.first {
+  border: solid;
+  padding: 50px;
+  background-color: bisque;
+}
+
+.second {
+  border: solid black;
+  padding: 50px;
+  background-color: palevioletred;
+  color: white;
+  text-align: center;
+}
